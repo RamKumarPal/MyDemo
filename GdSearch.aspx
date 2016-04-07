@@ -106,7 +106,10 @@
                             <asp:CheckBox ID="chkdelete" runat="server" />
                         </ItemTemplate>
                     </asp:TemplateField>
-               
+                <ItemTemplate>
+                            <asp:CheckBox ID="chkdelete1" runat="server" />
+                        </ItemTemplate>
+                    </asp:TemplateField>
 
                    
 
